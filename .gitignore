@@ -1,0 +1,37 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Editor Folders 
+.idea/
+.vscode/
+cmake-build-debug/
+CMakeCache.txt
+build/
+bin/
+*.cbp
+cmake_install.cmake 
+CMakeFiles/
+graph_info.json
+Makefile
+conanbuildinfo.cmake
+conanbuildinfo.txt
+cmake_install.cmake
