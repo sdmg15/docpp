@@ -35,3 +35,6 @@ Makefile
 conanbuildinfo.cmake
 conanbuildinfo.txt
 cmake_install.cmake
+conan.cmake
+conan.lock
+conaninfo.txt
